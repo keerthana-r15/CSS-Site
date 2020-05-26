@@ -1,0 +1,78 @@
+body{background-color: #222222;
+color:white;
+font-size: 18px;
+line-height: 1.6;
+font-family: "Roboto";}
+.logo {max-width: 20%;
+  height: auto;}
+p{color: white;
+width: 50%;
+font-size: 18px;
+line-height: 1.6;
+font-family: "Roboto";}
+.btn-group .button{
+  background-color: #e5c09d;
+  border:solid;
+  border-color: #222222;
+  border-width: thin;
+  color: Black;
+  padding: 20px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  cursor: pointer;
+  float: left;
+  width: 50%;
+  align-content: center;}
+.button {
+  position:relative;
+  margin-top:100;}
+.btn-group .button:hover{
+  background-color: #474b4e;}
+.btn-group {
+  position: absolute;
+  bottom: 0;
+  width:100%;}
+  .Upperlinks{color: white;
+    font-size:20px;
+  font-style: normal;
+  font-family: "Helvetica";
+  text-decoration: none;
+padding-right: 100px;
+padding-top: 40px;}
+a{color: white;
+  font-size:20px;
+font-style: normal;
+font-family: "Helvetica";
+text-decoration: none;}
+#Hovverr{background-color:#343637;
+  color:white;
+width:50%;}
+#Hovverr:hover{background-color: #474b4e;}
+a:hover{color:#6B5949;}
+h1{text-align: center;
+color:#e5c09d;
+font-size: 100px;
+width:50%;
+ }
+input[type=text], select, textarea{
+  width:50%;
+  padding:12px;
+  border:1px solid #474b4e;
+  border-radius: 4px;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  margin-right: 30px;
+  margin-left: 100px;
+
+  resize: vertical;}
+input[type=submit]:hover
+{background-color:#6B5949;
+}
+.container{
+  border-radius:5px;
+
+  padding: 20px;
+
+}
